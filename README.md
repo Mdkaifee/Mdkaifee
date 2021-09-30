@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD KAIFEE</h1>
-<h3 align="center">A CSE sophomore who loves exploring new field and empowering othera</h3>
+<h3 align="center">A CSE sophomore who loves exploring new field and empowering others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkaifee&label=Profile%20views&color=0e75b6&style=flat" alt="mdkaifee" /> </p>
 
