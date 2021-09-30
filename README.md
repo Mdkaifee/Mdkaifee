@@ -13,12 +13,6 @@
 
 - 💬 Ask me about **C,HTML,CSS,Github**
 
-- I’m looking to collaborate on making projects.
-
--  I’m interested in learning new skills.
-
--  I’m currently thinking about to get more n more skills.
-
 - 📫 How to reach me **kaifeeeminence@gmail.com**
 
 - ⚡ Fun fact **I think i m ro......**
@@ -27,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/kaifeefaridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaifeefaridi" height="30" width="40" /></a>
 <a href="https://fb.com/md kaifee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md kaifee" height="30" width="40" /></a>
-<a href="https://instagram.com/md_kaifee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_kaifee" height="30" width="40" /></a>
+<a href="https://instagram.com/md_kaifee786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_kaifee786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdkaifee&show_icons=true&locale=en" alt="mdkaifee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdkaifee&" alt="mdkaifee" /></p>
-
 
 <!---
 Mdkaifee/Mdkaifee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
