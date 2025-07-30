@@ -70,7 +70,7 @@
   <a href="https://twitter.com/kaifeefaridi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/md-kaifee-94a10b1a3" target="blank">
+  <a href="https://www.linkedin.com/in/md-kaifee-94a10b1a3/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://fb.com/md kaifee(kaifee)" target="blank">
