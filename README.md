@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD KAIFEE</h1>
-<h3 align="center">Full Stack Developer @ Apnitor Solutions | Turning ideas into sleek web & mobile appst</h3>
+<h3 align="center">Full Stack Developer @ Apnitor Solutions | Turning ideas into sleek web & mobile apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdkaifee&label=Profile%20views&color=0e75b6&style=flat" alt="mdkaifee" />
