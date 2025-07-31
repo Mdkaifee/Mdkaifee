@@ -67,7 +67,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/kaifeefaridi" target="blank">
+  <a href="https://x.com/dev_md_kaifee" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/md-kaifee-94a10b1a3/" target="blank">
@@ -76,7 +76,7 @@
   <a href="https://fb.com/md kaifee(kaifee)" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/md_kaifee8740" target="blank">
+  <a href="https://www.facebook.com/mdkaifee.mdkaif/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
