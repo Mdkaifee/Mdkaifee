@@ -25,10 +25,9 @@
 
 - 🎓 **CSE Graduate**  
 - 💼 **Working at [Apnitor Solutions](https://apnitor.com)** (March 11, 2024 – Present)
-- 💻 Tech Stack: Flutter • React Native • Python • Node.js • Django • FastAPI • React
+- 💻 Tech Stack: **Flutter • React Native • Python • Node.js • Django • FastAPI • React • MySQL • MongoDb • Firebase • REST APIs**
 - 🛠️ Building real-world apps and scalable backend solutions
 - 📝 You can visit my portfolio: *(https://kaifee-md.onrender.com/)*
-- 💬 Ask me about: **Python, Flutter, React, FastAPI, Firebase, MySQL, Django, REST APIs**
 - 📫 Contact: **kaifeeeminence@gmail.com**
 
 ---
