@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD KAIFEE</h1>
-<h3 align="center">Software Developer @ Apnitor Solutions | Building cool stuff with Flutter,ReactNative,Python,Node,Django,FastApi,React</h3>
+<h3 align="center">Full Stack Developer @ Apnitor Solutions | Turning ideas into sleek web & mobile appst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdkaifee&label=Profile%20views&color=0e75b6&style=flat" alt="mdkaifee" />
@@ -25,7 +25,7 @@
 
 - 🎓 **CSE Graduate**  
 - 💼 **Working at [Apnitor Solutions](https://apnitor.com)** (March 11, 2024 – Present)
-- 🌱 Currently focused on **Python** & **Flutter** development
+- 💻 Tech Stack: Flutter • React Native • Python • Node.js • Django • FastAPI • React
 - 🛠️ Building real-world apps and scalable backend solutions
 - 📝 You can visit my portfolio: *(https://kaifee-md.onrender.com/)*
 - 💬 Ask me about: **Python, Flutter, React, FastAPI, Firebase, MySQL, Django, REST APIs**
