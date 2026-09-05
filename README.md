@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=200&section=header&text=MD%20KAIFEE&fontSize=55&fontColor=ffffff&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=200&section=header&text=MD%20KAIFEE&fontSize=55&fontColor=ffffff&fontAlignY=42&v=2" width="100%"/>
 
 <h3>Flutter & Full-Stack Software Engineer</h3>
 
 <a href="https://mdkaifee-software-developer.onrender.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=2%2B+years+building+cross-platform+mobile+apps;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Python;Shipping+production+apps+on+Play+Store+%26+App+Store" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=2%2B+years+building+cross-platform+mobile+apps;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Python;Shipping+production+apps+on+Play+Store+%26+App+Store&v=2" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Mdkaifee&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="mdkaifee" />
@@ -268,12 +268,12 @@ DAV Institute of Engineering & Technology — *Jalandhar, Punjab, India*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mdkaifee&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdkaifee&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mdkaifee&show_icons=true&v=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdkaifee&layout=compact&v=2"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdkaifee&theme=tokyonight&hide_border=true" alt="mdkaifee streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mdkaifee" alt="mdkaifee trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mdkaifee&v=2" alt="mdkaifee trophies"/>
 
 </div>
 
@@ -315,7 +315,7 @@ DAV Institute of Engineering & Technology — *Jalandhar, Punjab, India*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer&v=2" width="100%"/>
 
 <div align="center">
 <i>⭐ Thanks for stopping by — feel free to explore my repos and connect!</i>
