@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=MD%20KAIFEE&fontSize=55&fontColor=ffffff&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=200&section=header&text=MD%20KAIFEE&fontSize=55&fontColor=ffffff&fontAlignY=42" width="100%"/>
 
 <h3>Flutter & Full-Stack Software Engineer</h3>
 
 <a href="https://mdkaifee-software-developer.onrender.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=2%2B+years+building+cross-platform+mobile+apps;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Python;Shipping+production+apps+on+Play+Store+%26+App+Store" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=2%2B+years+building+cross-platform+mobile+apps;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Python;Shipping+production+apps+on+Play+Store+%26+App+Store" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Mdkaifee&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="mdkaifee" />
-<img src="https://img.shields.io/github/followers/Mdkaifee?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=Mdkaifee&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="mdkaifee" />
+<img src="https://img.shields.io/github/followers/Mdkaifee?label=Followers&style=for-the-badge&color=FFA94D" alt="followers"/>
 
 <br/><br/>
 
 <a href="mailto:md.kaifee@apnitor.com"><img src="https://img.shields.io/badge/Email-md.kaifee%40apnitor.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="tel:+916201273115"><img src="https://img.shields.io/badge/Phone-%2B91%206201273115-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Mohali%2C%20Punjab%2C%20India-6c63ff?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Mohali%2C%20Punjab%2C%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -39,7 +39,7 @@ Software Engineer with **2+ years of experience** building production-ready cros
 
 **Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-**Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square&logo=fastapi&logoColor=white)
+**Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
 
 **Frontend:** ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -260,7 +260,7 @@ DAV Institute of Engineering & Technology — *Jalandhar, Punjab, India*
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-6c63ff?style=flat-square) ![Hindi](https://img.shields.io/badge/Hindi-0e75b6?style=flat-square)
+![English](https://img.shields.io/badge/English-FF6B6B?style=flat-square) ![Hindi](https://img.shields.io/badge/Hindi-FFA94D?style=flat-square)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -310,12 +310,12 @@ DAV Institute of Engineering & Technology — *Jalandhar, Punjab, India*
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://mdkaifee-software-developer.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <i>⭐ Thanks for stopping by — feel free to explore my repos and connect!</i>
