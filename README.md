@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c63ff&height=220&section=header&text=MD%20KAIFEE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=MD%20KAIFEE&fontSize=55&fontColor=ffffff&fontAlignY=42" width="100%"/>
+
+<h3>Flutter & Full-Stack Software Engineer</h3>
 
 <a href="https://mdkaifee-software-developer.onrender.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=2%2B+years+building+cross-platform+mobile+apps;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Python;Shipping+production+apps+on+Play+Store+%26+App+Store;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=2%2B+years+building+cross-platform+mobile+apps;Flutter+%E2%80%A2+FastAPI+%E2%80%A2+React.js+%E2%80%A2+Python;Shipping+production+apps+on+Play+Store+%26+App+Store" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Mdkaifee&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="mdkaifee" />
@@ -313,7 +315,7 @@ DAV Institute of Engineering & Technology — *Jalandhar, Punjab, India*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <i>⭐ Thanks for stopping by — feel free to explore my repos and connect!</i>
