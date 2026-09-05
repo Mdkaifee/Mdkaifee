@@ -268,12 +268,12 @@ DAV Institute of Engineering & Technology — *Jalandhar, Punjab, India*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mdkaifee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdkaifee&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mdkaifee&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdkaifee&layout=compact"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdkaifee&theme=tokyonight&hide_border=true" alt="mdkaifee streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mdkaifee&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="mdkaifee trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mdkaifee" alt="mdkaifee trophies"/>
 
 </div>
 
